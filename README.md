@@ -1,6 +1,8 @@
 # Online Donation Platform
 
-A Django web application for community fundraising: anyone can browse campaigns, give to them through a simulated checkout, and launch campaigns of their own with live progress tracking.
+Donation platform designed to empower nonprofits, independent creators, and community projects to raise funds seamlessly.
+
+![Dashboard](public/donation-platform.png)
 
 ## Tech Stack
 
