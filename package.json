@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.13",
-    "tailwindcss": "^4.1.13"
+    "tailwindcss": "^4.3.4"
   },
   "allowScripts": {
     "@parcel/watcher@2.5.1": true
